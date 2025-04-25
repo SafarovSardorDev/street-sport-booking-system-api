@@ -7,7 +7,7 @@ StreetSport API — bu Toshkent shahridagi stadionlarni bron qilish tizimi uchun
 - **Backend**: Django + DRF (REST API)
 - **Database**: PostgreSQL
 - **Authentication**: JWT (JSON Web Tokens)
-- **API Documentation**: Swagger UI (drf-yasg) and redoc
+- **API Documentation**: Swagger UI (drf-yasg) and Redoc UI
 
 ## 📦 Asosiy funksiyalar
 
